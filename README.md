@@ -1,5 +1,7 @@
 # P1 finite elements for the 1D Poisson equation
 
+**v0.2.0 adds the [final-dissertation experiment suite](dissertation/README.md):** singular-curvature 1D examples, a triangular 2D extension, independent audits, and current figure/table generators. Use `python dissertation/reproduce.py --recompute` after installing its dependencies. The original v0.1.0 smooth examples and commands below are preserved.
+
 This code solves `-u'' = f` on `[0,1]` with `u(0) = u(1) = 0`, using continuous piecewise-linear finite elements. It reproduces two examples:
 
 * `u = x(1-x)/2`, with `f = 1`.

@@ -1,5 +1,7 @@
 # 一维 Poisson 方程的 P1 有限元实验
 
+**v0.2.0新增[最终论文复现代码](dissertation/README.zh-CN.md)**：一维低正则性算例、二维扩展、独立验证和最新图表。原v0.1.0入口及下方说明保留；当前论文请使用`dissertation/reproduce.py`。
+
 下载 Release 的 ZIP，解压后打开终端。需要 Python 3.12；不需要原作者的目录、Anaconda、Word 或课程讲义。
 
 Windows CMD：

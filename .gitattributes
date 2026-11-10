@@ -1,1 +1,4 @@
 * text=auto eol=lf
+# Preserve hashed reference data and source-provenance bytes across checkouts.
+dissertation/reference_results/** -text
+dissertation/code/*.py -text

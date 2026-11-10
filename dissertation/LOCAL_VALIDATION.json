@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-10",
+  "platform": "Windows",
+  "runs": [
+    {
+      "passed": true,
+      "mode": "saved-data audit",
+      "experiment_checks": 151,
+      "audit_counts": {
+        "results_audit/audit.json": 144,
+        "rate_bound_audit.json": 8,
+        "integral_limits_audit.json": 15
+      },
+      "wrapper_checks": 768,
+      "python": "3.12.14"
+    },
+    {
+      "passed": true,
+      "mode": "recompute",
+      "experiment_checks": 150,
+      "audit_counts": {
+        "results_audit/audit.json": 144,
+        "rate_bound_audit.json": 8,
+        "integral_limits_audit.json": 15
+      },
+      "wrapper_checks": 768,
+      "python": "3.12.14"
+    }
+  ],
+  "scope": "Local validation only. Consult GitHub Actions for remote matrix results."
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "path": "reference_results/one_dimensional.csv",
+    "sha256": "194b8c76a13435de4b5e5537e4cad0c956722f8af9b36fdbba73711b6a3a74d3"
+  },
+  {
+    "path": "reference_results/quadrature_rules.json",
+    "sha256": "cc1227f812603cff9058c7816dc7a94ad07244971b77f4f1fb9a2350161f96a7"
+  },
+  {
+    "path": "reference_results/reference_convergence.csv",
+    "sha256": "dabf74709f76f4a23e7cdb8a0426a49aac9d55dd2a33450416c8485412b4cdee"
+  },
+  {
+    "path": "reference_results/sampling_sensitivity.csv",
+    "sha256": "868f392d86d9097dfa0a157f701157dd0ce92f0131c6ebb3d203c19a36c58a04"
+  },
+  {
+    "path": "reference_results/solution2d_power_16_d5.npz",
+    "sha256": "014d069d68ce41c543a0ce7930e89adb418a6f8655e301f055206efa4563b105"
+  },
+  {
+    "path": "reference_results/solution2d_power_32_d5.npz",
+    "sha256": "0a127654e3c89018c8eef8d08dcebd21d9ddc7a8a7147f61378396faaa00043e"
+  },
+  {
+    "path": "reference_results/solution2d_power_64_d5.npz",
+    "sha256": "0f5eb08a43fac7b5bb2df0973ffe62e211c0e52867f98a983f0689e63d4fb1da"
+  },
+  {
+    "path": "reference_results/solution2d_power_8_d5.npz",
+    "sha256": "09d5a63b34cc28a08d9c8684f137625323606389a4cd9d38bbb46002739a084f"
+  },
+  {
+    "path": "reference_results/solution2d_sine_16_d5.npz",
+    "sha256": "5497384cb446d6baeb2de722133fd045425938df1646f4977645a2fb14e0e862"
+  },
+  {
+    "path": "reference_results/solution2d_sine_32_d5.npz",
+    "sha256": "ea48b07b09b067e6ec28e68bd4a331c1dc288ddf71442687e986c163454cf72d"
+  },
+  {
+    "path": "reference_results/solution2d_sine_64_d5.npz",
+    "sha256": "797ff0176dca7e777f9300273c4c7eaa9c53561e0ddabc59149a9f3d6bc91786"
+  },
+  {
+    "path": "reference_results/solution2d_sine_8_d5.npz",
+    "sha256": "8a78bdd6ac3b9ae954e75431cd82367543a5f9611593e37d0f18ba416ef96ced"
+  },
+  {
+    "path": "reference_results/two_dimensional.csv",
+    "sha256": "ebded4b9ba04b1a060113bc98e21660d76c5a827310ba83c35e73f88f357e34d"
+  },
+  {
+    "path": "reference_results/validation.json",
+    "sha256": "766045ba885d1e82fa693551bacaae98089087a536b5ab17a873bd98a42bda1b"
+  }
+]

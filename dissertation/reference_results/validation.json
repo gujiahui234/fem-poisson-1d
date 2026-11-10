@@ -1,0 +1,919 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "quadrature_degree_2_all_moments",
+      "value": 5.551115123125783e-17,
+      "limit": 3e-14,
+      "passed": true
+    },
+    {
+      "name": "quadrature_degree_3_all_moments",
+      "value": 5.551115123125783e-17,
+      "limit": 3e-14,
+      "passed": true
+    },
+    {
+      "name": "quadrature_degree_4_all_moments",
+      "value": 9.992007221626409e-16,
+      "limit": 3e-14,
+      "passed": true
+    },
+    {
+      "name": "quadrature_degree_5_all_moments",
+      "value": 9.992007221626409e-16,
+      "limit": 3e-14,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_8_nodal",
+      "value": 2.220446049250313e-16,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_8_error_integrals",
+      "value": 1.734723475976807e-18,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_8_load_0_0",
+      "value": 1.3877787807814457e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_8_load_0_1",
+      "value": 0.0,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_8_load_7_0",
+      "value": 5.551115123125783e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_8_load_7_1",
+      "value": 9.71445146547012e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "sine_8_independent_L2",
+      "value": 9.020562075079397e-17,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "sine_8_independent_energy",
+      "value": 5.551115123125783e-17,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_16_nodal",
+      "value": 2.7755575615628914e-16,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_16_error_integrals",
+      "value": 8.326672684688674e-17,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_16_load_0_0",
+      "value": 0.0,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_16_load_0_1",
+      "value": 0.0,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_16_load_15_0",
+      "value": 6.938893903907228e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_16_load_15_1",
+      "value": 2.0816681711721685e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "sine_16_independent_L2",
+      "value": 7.025630077706069e-17,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "sine_16_independent_energy",
+      "value": 0.0,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_32_nodal",
+      "value": 2.7755575615628914e-15,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_32_error_integrals",
+      "value": 1.3877787807814457e-17,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_32_load_0_0",
+      "value": 8.673617379884035e-19,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_32_load_0_1",
+      "value": 1.734723475976807e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_32_load_31_0",
+      "value": 2.6020852139652106e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_32_load_31_1",
+      "value": 2.5153490401663703e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "sine_32_independent_L2",
+      "value": 1.4869832795638693e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "sine_32_independent_energy",
+      "value": 1.3877787807814457e-17,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_64_nodal",
+      "value": 9.103828801926284e-15,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_64_error_integrals",
+      "value": 4.163336342344337e-17,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_64_load_0_0",
+      "value": 2.168404344971009e-19,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_64_load_0_1",
+      "value": 0.0,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_64_load_63_0",
+      "value": 9.974659986866641e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_64_load_63_1",
+      "value": 9.75781955236954e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "sine_64_independent_L2",
+      "value": 5.562065565067886e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "sine_64_independent_energy",
+      "value": 3.469446951953614e-17,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_128_nodal",
+      "value": 9.2148511043888e-15,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_128_error_integrals",
+      "value": 4.1335207826009857e-19,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_128_load_0_0",
+      "value": 1.0842021724855044e-19,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_128_load_0_1",
+      "value": 0.0,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_128_load_127_0",
+      "value": 1.951563910473908e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_sine_128_load_127_1",
+      "value": 6.396792817664476e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "sine_128_independent_L2",
+      "value": 5.931771729621865e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "sine_128_independent_energy",
+      "value": 3.469446951953614e-17,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "1d_power_8_nodal",
+      "value": 5.551115123125783e-17,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_8_error_integrals",
+      "value": 6.938893903907228e-18,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_8_load_0_0",
+      "value": 0.0,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_8_load_0_1",
+      "value": 2.7755575615628914e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_8_load_7_0",
+      "value": 1.3877787807814457e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_8_load_7_1",
+      "value": 1.3877787807814457e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "power_8_analytic_max",
+      "value": 1.1102230246251565e-16,
+      "limit": 2e-08,
+      "passed": true
+    },
+    {
+      "name": "power_8_analytic_derivative",
+      "value": 4.440892098500626e-16,
+      "limit": 2e-08,
+      "passed": true
+    },
+    {
+      "name": "power_8_independent_L2",
+      "value": 1.6046192152785466e-17,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "power_8_independent_energy",
+      "value": 1.3877787807814457e-17,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "1d_power_16_nodal",
+      "value": 5.551115123125783e-17,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_16_error_integrals",
+      "value": 4.336808689942018e-19,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_16_load_0_0",
+      "value": 2.7755575615628914e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_16_load_0_1",
+      "value": 1.3877787807814457e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_16_load_15_0",
+      "value": 0.0,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_16_load_15_1",
+      "value": 0.0,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "power_16_analytic_max",
+      "value": 4.440892098500626e-16,
+      "limit": 2e-08,
+      "passed": true
+    },
+    {
+      "name": "power_16_analytic_derivative",
+      "value": 2.220446049250313e-16,
+      "limit": 2e-08,
+      "passed": true
+    },
+    {
+      "name": "1d_power_32_nodal",
+      "value": 5.828670879282072e-16,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_32_error_integrals",
+      "value": 6.938893903907228e-18,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_32_load_0_0",
+      "value": 1.3877787807814457e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_32_load_0_1",
+      "value": 1.3877787807814457e-17,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_32_load_31_0",
+      "value": 3.469446951953614e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_32_load_31_1",
+      "value": 3.469446951953614e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "power_32_analytic_max",
+      "value": 1.84297022087776e-14,
+      "limit": 2e-08,
+      "passed": true
+    },
+    {
+      "name": "power_32_analytic_derivative",
+      "value": 7.105427357601002e-15,
+      "limit": 2e-08,
+      "passed": true
+    },
+    {
+      "name": "1d_power_64_nodal",
+      "value": 1.8041124150158794e-15,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_64_error_integrals",
+      "value": 1.734723475976807e-18,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_64_load_0_0",
+      "value": 0.0,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_64_load_0_1",
+      "value": 6.938893903907228e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_64_load_63_0",
+      "value": 0.0,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_64_load_63_1",
+      "value": 1.734723475976807e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "power_64_analytic_max",
+      "value": 1.9939605522267811e-13,
+      "limit": 2e-08,
+      "passed": true
+    },
+    {
+      "name": "power_64_analytic_derivative",
+      "value": 7.971401316808624e-14,
+      "limit": 2e-08,
+      "passed": true
+    },
+    {
+      "name": "1d_power_128_nodal",
+      "value": 1.8596235662471372e-15,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_128_error_integrals",
+      "value": 1.9820570965750628e-19,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_128_load_0_0",
+      "value": 6.938893903907228e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_128_load_0_1",
+      "value": 3.469446951953614e-18,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_128_load_127_0",
+      "value": 0.0,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "1d_power_128_load_127_1",
+      "value": 8.673617379884035e-19,
+      "limit": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "power_128_analytic_max",
+      "value": 6.279421427279885e-13,
+      "limit": 2e-08,
+      "passed": true
+    },
+    {
+      "name": "power_128_analytic_derivative",
+      "value": 2.489120021209601e-13,
+      "limit": 2e-08,
+      "passed": true
+    },
+    {
+      "name": "power_128_independent_L2",
+      "value": 9.92046681890131e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "power_128_independent_energy",
+      "value": 4.336808689942018e-18,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "two_element_U",
+      "value": 0.0,
+      "limit": 1e-15,
+      "passed": true
+    },
+    {
+      "name": "two_element_max",
+      "value": 0.0,
+      "limit": 1e-15,
+      "passed": true
+    },
+    {
+      "name": "2d_8_affine_patch",
+      "value": 4.440892098500626e-16,
+      "limit": 2e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_8_total_area",
+      "value": 2.220446049250313e-16,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_8_ref12_ref20",
+      "value": 2.220446049250313e-16,
+      "limit": 2e-11,
+      "passed": true
+    },
+    {
+      "name": "smooth2d_historical_nodal",
+      "value": 9.992007221626409e-16,
+      "limit": 2e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_8_d2_residual",
+      "value": 7.216449660063518e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_8_d3_residual",
+      "value": 8.604228440844963e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_8_d4_residual",
+      "value": 8.881784197001252e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_8_d5_residual",
+      "value": 1.1102230246251565e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_8_norm_integral12_20",
+      "value": 3.122502256758253e-17,
+      "limit": 3e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_8_nested_samples",
+      "value": 0.0,
+      "limit": 2e-14,
+      "passed": true
+    },
+    {
+      "name": "2d_power_8_ref12_ref20",
+      "value": 4.163336342344337e-17,
+      "limit": 2e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_power_8_d2_residual",
+      "value": 1.5265566588595902e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_8_d3_residual",
+      "value": 1.3183898417423734e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_8_d4_residual",
+      "value": 1.6653345369377348e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_8_d5_residual",
+      "value": 1.3877787807814457e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_8_norm_integral12_20",
+      "value": 1.3877787807814457e-17,
+      "limit": 3e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_power_8_nested_samples",
+      "value": 0.0,
+      "limit": 2e-14,
+      "passed": true
+    },
+    {
+      "name": "2d_16_affine_patch",
+      "value": 6.661338147750939e-16,
+      "limit": 2e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_16_total_area",
+      "value": 2.220446049250313e-16,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_16_ref12_ref20",
+      "value": 2.220446049250313e-16,
+      "limit": 2e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_16_d2_residual",
+      "value": 9.71445146547012e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_16_d3_residual",
+      "value": 1.1518563880486e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_16_d4_residual",
+      "value": 9.71445146547012e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_16_d5_residual",
+      "value": 9.159339953157541e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_16_norm_integral12_20",
+      "value": 2.7755575615628914e-17,
+      "limit": 3e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_power_16_ref12_ref20",
+      "value": 4.163336342344337e-17,
+      "limit": 2e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_power_16_d2_residual",
+      "value": 2.255140518769849e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_16_d3_residual",
+      "value": 2.237793284010081e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_16_d4_residual",
+      "value": 1.8735013540549517e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_16_d5_residual",
+      "value": 2.185751579730777e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_16_norm_integral12_20",
+      "value": 3.903127820947816e-18,
+      "limit": 3e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_32_affine_patch",
+      "value": 0.0,
+      "limit": 2e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_32_total_area",
+      "value": 0.0,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_32_ref12_ref20",
+      "value": 3.3306690738754696e-16,
+      "limit": 2e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_32_d2_residual",
+      "value": 1.4259426972529354e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_32_d3_residual",
+      "value": 1.5439038936193583e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_32_d4_residual",
+      "value": 1.8318679906315083e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_32_d5_residual",
+      "value": 1.6618650899857812e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_32_norm_integral12_20",
+      "value": 3.122502256758253e-17,
+      "limit": 3e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_power_32_ref12_ref20",
+      "value": 5.551115123125783e-17,
+      "limit": 2e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_power_32_d2_residual",
+      "value": 3.217912047936977e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_32_d3_residual",
+      "value": 4.0809369772354387e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_32_d4_residual",
+      "value": 3.690624195140657e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_32_d5_residual",
+      "value": 3.213575239247035e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_32_norm_integral12_20",
+      "value": 6.396792817664476e-18,
+      "limit": 3e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_64_affine_patch",
+      "value": 1.3322676295501878e-15,
+      "limit": 2e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_64_total_area",
+      "value": 2.220446049250313e-16,
+      "limit": 3e-12,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_64_ref12_ref20",
+      "value": 5.551115123125783e-16,
+      "limit": 2e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_64_d2_residual",
+      "value": 2.1198320876436583e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_64_d3_residual",
+      "value": 1.9784521243515485e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_64_d4_residual",
+      "value": 1.8986548444566154e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_64_d5_residual",
+      "value": 2.112893193739751e-15,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_64_norm_integral12_20",
+      "value": 4.163336342344337e-17,
+      "limit": 3e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_sine_64_nested_samples",
+      "value": 0.0,
+      "limit": 2e-14,
+      "passed": true
+    },
+    {
+      "name": "2d_power_64_ref12_ref20",
+      "value": 1.1102230246251565e-16,
+      "limit": 2e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_power_64_d2_residual",
+      "value": 4.240314696590808e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_64_d3_residual",
+      "value": 4.047326709888388e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_64_d4_residual",
+      "value": 4.1882729923115036e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_64_d5_residual",
+      "value": 4.633880085203046e-16,
+      "limit": 5e-13,
+      "passed": true
+    },
+    {
+      "name": "2d_power_64_norm_integral12_20",
+      "value": 6.938893903907228e-18,
+      "limit": 3e-11,
+      "passed": true
+    },
+    {
+      "name": "2d_power_64_nested_samples",
+      "value": 0.0,
+      "limit": 2e-14,
+      "passed": true
+    }
+  ],
+  "elapsed_seconds": 13.905986785888672,
+  "python": "3.12.14",
+  "numpy": "2.2.6",
+  "scipy": "1.15.3",
+  "rows_1d": 10,
+  "rows_2d": 32,
+  "quadrature_interpretation": "2 through 5 means polynomial exactness degree, following the supplied problem sheet; point counts are 3,4,6,7.",
+  "scope": "1D primary; 2D extension. No new general 2D theorem proved."
+}
