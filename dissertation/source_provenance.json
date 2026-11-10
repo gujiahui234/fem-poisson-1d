@@ -14,25 +14,25 @@
   {
     "file": "code/audit_rate_bounds.py",
     "source_sha256": "fe9642d0069458e14de24192e771a66307a0319c5c1cc62fb7a5214aba131dd5",
-    "published_sha256": "a1c2bef5efc7a1fc327a4df9dd3477ceca10dc44f7feb3a332505a0e233da852",
+    "published_sha256": "fe9642d0069458e14de24192e771a66307a0319c5c1cc62fb7a5214aba131dd5",
     "adapted": false
   },
   {
     "file": "code/check_integral_limits.py",
     "source_sha256": "35ce2be5adad3bbddcf99a53fe2f28a410ba704cfc30af5307097767d34126f3",
-    "published_sha256": "7cdb461e38303706b418a553156adec8b357cf2390d47c971334b9f9627c9bcb",
+    "published_sha256": "35ce2be5adad3bbddcf99a53fe2f28a410ba704cfc30af5307097767d34126f3",
     "adapted": false
   },
   {
     "file": "code/make_template_tables.py",
     "source_sha256": "8f2e3c0cd8f3188124ad78b45b5810066d5f5d7f9cb7981985da5f9172d4c54a",
-    "published_sha256": "02356623c2a3922b3d4374f99e6f4b8a2c03c81fcdfc0f2a339e6e3da5257e81",
+    "published_sha256": "8f2e3c0cd8f3188124ad78b45b5810066d5f5d7f9cb7981985da5f9172d4c54a",
     "adapted": false
   },
   {
     "file": "code/make_readability_figures.py",
     "source_sha256": "800957e87f38339d416b246ff54d6197675d9fe8f5cae47cfac70f0564a48cb3",
-    "published_sha256": "80561c7cffbef44519b01ba8891a553265b1f0a70bb3032c47b2f40ddf31662c",
+    "published_sha256": "800957e87f38339d416b246ff54d6197675d9fe8f5cae47cfac70f0564a48cb3",
     "adapted": false
   }
 ]
